@@ -268,7 +268,7 @@ end
 	Tabs.BackgroundColor3 = COL3RGB(255, 255, 255)
 	Tabs.BackgroundTransparency = 1.000
 	Tabs.Position = UDIM2(0, 0, 0, 32)
-	Tabs.Size = UDIM2(0, 600, 0, 568)
+	Tabs.Size = UDIM2(0, 310, 0, 400)
 
 	local first = true
 	local currenttab
