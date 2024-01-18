@@ -190,7 +190,7 @@ end
 	Menu.Parent = Ova
 	Menu.BackgroundColor3 = COL3RGB(20, 20, 20)
 	Menu.Position = UDIM2(0.5, -300, 0.5, -300)
-	Menu.Size = UDIM2(0, 310, 0, 400)
+	Menu.Size = UDIM2(0, 310, 0, 500)
 	Menu.Image = "http://www.roblox.com/asset/?id=7265208537"
 	Menu.BorderSizePixel = 2.5
 	Menu.BorderColor3 = Color3.fromRGB(48, 113, 169)
